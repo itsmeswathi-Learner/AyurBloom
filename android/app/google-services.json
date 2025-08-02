@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239624593736",
+    "project_id": "ayurbloom",
+    "storage_bucket": "ayurbloom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239624593736:android:4af1745a31941088abd37d",
+        "android_client_info": {
+          "package_name": "com.ayurbloom.ayurbloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXBHGVMk7Mb2TWTMSQU3H5N4LVirZmDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
