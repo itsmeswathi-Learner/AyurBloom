@@ -44,9 +44,11 @@ samples, guidance on mobile development, and a full API reference.
 ### 🩺 Natural Healing & Remedies
 - Dedicated screens for:
   - **Yoga**
-  - **Acupuncture**
   - **Ayurveda**
-  - **Natural Remedies**
+  - **Home Remedies**
+  - **Naturopathy**
+  - **Acupuncture**
+  - **Healing diet**
 - Each includes:
   - Daily tips
   - **YouTube tutorial videos**
