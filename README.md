@@ -82,8 +82,22 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Visuals
+<img width="347" height="735" alt="image" src="https://github.com/user-attachments/assets/e1b7289a-bf88-447d-bb55-95f8d2ebcc53" />
+<img width="350" height="782" alt="image" src="https://github.com/user-attachments/assets/c1b62b76-f524-459f-8afb-e8cff79ae748" />
+<img width="344" height="788" alt="image" src="https://github.com/user-attachments/assets/84d338ef-04b5-4493-87f9-72dcd1d30473" />
+<img width="353" height="783" alt="image" src="https://github.com/user-attachments/assets/a77450d2-fc4b-4d3f-a3e9-57d8349081c2" />
+<img width="353" height="761" alt="image" src="https://github.com/user-attachments/assets/0140b3db-0bd8-483a-bca5-e7671182eba9" />
+<img width="346" height="775" alt="image" src="https://github.com/user-attachments/assets/f594d769-d0ec-4bac-bacd-0bcf63de0c73" />
+<img width="340" height="761" alt="image" src="https://github.com/user-attachments/assets/a42f167a-1087-4ebd-aea9-5d6981cb5d6f" />
 
-> *(You can add screenshots like these to the `assets/` folder)*
+
+
+
+
+
+
+
+
 
 
