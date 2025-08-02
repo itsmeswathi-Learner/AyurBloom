@@ -93,6 +93,68 @@ samples, guidance on mobile development, and a full API reference.
 <img width="348" height="788" alt="image" src="https://github.com/user-attachments/assets/bd5a5491-d53e-477e-a8fe-d403f8928e60" />
 
 
+---
+
+## 🛠️ Tech Stack
+
+- 🧱 **Flutter** & **Dart**
+- 🔥 **Firebase** (Auth, Firestore, Storage)
+- 🌤️ **OpenWeather API**
+- 📍 **Location Services**
+- 📺 **YouTube Embedded Tutorials**
+
+---
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+
+- Flutter SDK installed
+- Firebase project configured
+- OpenWeather API key
+- Android Studio / VS Code
+
+### 🛠️ Installation
+
+```bash
+git clone https://github.com/itsmeswathi-Learner/AyurBloom.git
+cd AyurBloom
+flutter pub get
+
+
+🔌 Firebase Setup
+Create a Firebase project
+
+Download google-services.json and place it in android/app/
+
+Add GoogleService-Info.plist to ios/Runner/
+
+Enable:
+
+Firebase Authentication
+
+Firestore Database
+
+Firebase Storage
+
+(Optional) Update Firestore rules if needed
+
+
+🧪 Example APIs Used
+OpenWeatherMap API
+
+Firebase Authentication
+
+Cloud Firestore
+
+📃 License
+This project is licensed under the MIT License — feel free to use it for learning, enhancements, or building your own Ayurvedic wellness app.
+
+🤝 Contributions
+Contributions are welcome!
+If you have ideas to improve AyurBloom, feel free to fork this repo, make your changes, and submit a pull request 🙌
+
+
 
 
 
