@@ -116,10 +116,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ### 🛠️ Installation
 
-```bash
-git clone https://github.com/itsmeswathi-Learner/AyurBloom.git
-cd AyurBloom
-flutter pub get
+
+    git clone https://github.com/itsmeswathi-Learner/AyurBloom.git
+    cd AyurBloom
+    flutter pub get
 
 
 🔌 Firebase Setup
